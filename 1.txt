@@ -1,5 +1,1 @@
-vless://fe97ccff-6078-4a4b-8fa4-4d0f24529f79@tw.xxcc.us.kg:8888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=4f8BmOhBpzRm7TtRsjf8ztFG0c-m2bphHvIxfnzUIzk&sid=cb5ecd4c&type=tcp&headerType=none#TW
-vless://fe97ccff-6078-4a4b-8fa4-4d0f24529f79@hk.xxcc.us.kg:8888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=GwK4LxA22UyZWU5ynMDmIkbXn7n5-svHScWzVGccyHI&sid=61a734ee&type=tcp&headerType=none#HK
-vless://fe97ccff-6078-4a4b-8fa4-4d0f24529f79@us.xxcc.us.kg:8888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=jay4lOlhfzggGBFI2nvtq_JBK6pttki2ohOB7FmLCis&sid=fe8c24b2&type=tcp&headerType=none#US
-vless://fe97ccff-6078-4a4b-8fa4-4d0f24529f79@jp.xxcc.us.kg:8888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=pmdOvQ3rjGGBFx0onGUL2VOkGN61ACFFisyRQ3hD5B8&sid=6d724e2c&type=tcp&headerType=none#JP
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@1.cloudflare.182682.xyz:80?encryption=none&security=none&type=ws&host=9999.2235298845.workers.dev&path=%2F%3Fed%3D2560#%E5%A4%87%E7%94%A8
+GX
