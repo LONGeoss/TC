@@ -1,3 +1,4 @@
+shopify.com:443#Auto
 time.is:443#Auto
 ip.sb:443#Auto
 malaysia.com:443#Auto
@@ -9,7 +10,6 @@ www.gov.se:443#Auto
 www.gov.ua:443#Auto
 icook.hk:443#Auto
 icook.tw:443#Auto
-shopify.com:443#Auto
 cf.090227.xyz:443#Auto
 cf.zhetengsha.eu.org:443#Auto
 skk.moe:443#Auto
