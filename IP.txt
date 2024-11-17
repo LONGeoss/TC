@@ -1,4 +1,4 @@
-www.visa.com.sg:443#Auto
+www.visa.com.sg:8443#Auto
 www.visa.com.hk:443#Auto
 www.visa.com.tw:443#Auto
 www.visa.co.jp:443#Auto
