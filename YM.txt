@@ -9,3 +9,8 @@ japan.com:443#H
 time.is:443#J
 ip.sb:443#K
 malaysia.com:443#L
+cfip.xxxxxxxx.tk:443#N
+bestcf.onecf.eu.org:443#M
+cf.zhetengsha.eu.org:443#O
+cf.0sm.com:443#P
+bestcf.top:443#Q
