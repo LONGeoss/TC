@@ -1,9 +1,7 @@
-
-www.visa.com.tw:443#A
-www.visa.com.sg:443#A
-www.visa.com.hk:443#A
-www.visa.co.jp:443#A
-www.visakorea.com:443#A
+1.xxcc.us.kg:443#A
+2.xxcc.us.kg:443#B
+3.xxcc.us.kg:443#C
+4.xxcc.us.kg:443#D
 russia.com:443#E
 singapore.com:443#F
 skk.moe:443#G
@@ -16,7 +14,3 @@ bestcf.onecf.eu.org:443#M
 cf.zhetengsha.eu.org:443#O
 cf.0sm.com:443#P
 bestcf.top:443#Q
-1.xxcc.us.kg:443#A
-2.xxcc.us.kg:443#B
-3.xxcc.us.kg:443#C
-4.xxcc.us.kg:443#D
