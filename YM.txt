@@ -1,7 +1,7 @@
-1.xxcc.us.kg:443#A
-2.xxcc.us.kg:443#B
-3.xxcc.us.kg:443#C
-4.xxcc.us.kg:443#D
+1.bit8.icu:443#A
+2.bit8.icu:443#B
+3.bit8.icu:443#C
+4.bit8.icu:443#D
 russia.com:443#E
 singapore.com:443#F
 skk.moe:443#G
