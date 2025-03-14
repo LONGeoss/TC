@@ -4,7 +4,6 @@
 4.bit8.icu:443#A4
 5.bit8.icu:443#A5
 6.bit8.icu:443#A6
-cfip.xxxxxxxx.tk:443#B1
 bestcf.onecf.eu.org:443#B2
 cf.zhetengsha.eu.org:443#B3
 cf.0sm.com:443#B4
