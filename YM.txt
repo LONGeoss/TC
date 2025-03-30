@@ -4,6 +4,9 @@
 4.bit8.icu:443#A4
 5.bit8.icu:443#A5
 6.bit8.icu:443#A6
+1.cf.090227.xyz:443#B1
 bestcf.onecf.eu.org:443#B2
 cf.zhetengsha.eu.org:443#B3
 cf.0sm.com:443#B4
+ct.090227.xyz#CT电信分流
+cmcc.090227.xyz#CMCC移动分流
