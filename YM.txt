@@ -22,3 +22,4 @@ www.pear.com:443#B16
 japan.com:443#B17
 www.gco.gov.qa:443#B18
 malaysia.com:443#B19
+byrutgame.org:443#B20
