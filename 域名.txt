@@ -1,6 +1,5 @@
-time.is:2053#自动区
-ip.sb:443#A1
-icook.tw:443#A2
-russia.com:443#A3
-www.tokyo.com:443#A4
-www.macau.com:443#A5
+time.is:2053#A1
+ip.sb:443#A2
+icook.tw:443#A3
+russia.com:443#A4
+www.tokyo.com:443#A5
