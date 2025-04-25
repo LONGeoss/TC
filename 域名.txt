@@ -1,5 +1,5 @@
-time.is:2053#A1
-ip.sb:443#A2
-icook.tw:443#A3
-russia.com:443#A4
-www.tokyo.com:443#A5
+time.is:2053#自动线路-A1
+ip.sb:443#自动线路-A2
+icook.tw:443#自动线路-A3
+russia.com:443#自动线路-A4
+www.tokyo.com:443#自动线路-A5
