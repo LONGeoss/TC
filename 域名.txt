@@ -3,3 +3,13 @@ ip.sb:443#自动线路-A2
 icook.tw:443#自动线路-A3
 russia.com:443#自动线路-A4
 www.tokyo.com:443#自动线路-A5
+freeyx.cloudflare88.eu.org:443#自动线路-B1
+cf-cname.xingpingcn.top:443#自动线路-B2
+1.cloudflare.182682.xyz:443#自动线路-B3
+cf.090227.xyz:443#自动线路-B4
+cf.zhetengsha.eu.org:443#自动线路-B5
+bestcf.top:443#自动线路-B6
+cf.0sm.com#自动线路-B8
+cdn.2020111.xyz#自动线路-B9
+cloudflare.9jy.cc#自动线路-B9
+cfip.1323123.xyz#自动线路-B10
