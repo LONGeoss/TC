@@ -1,7 +1,7 @@
 cloudflare.182682.xyz#B1-自
 cloudflare-ip.mofashi.ltd#B2-自
-cf.090227.xyz#B4-自
 freeyx.cloudflare88.eu.org#B3-自
+cf.090227.xyz#B4-自
 cloudflare.9jy.cc#B5-自
 
 icook.tw#A1-域
