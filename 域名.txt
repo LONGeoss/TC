@@ -6,12 +6,7 @@ gur.gov.ua#A5-域
 fbi.gov#A6-域
 russia.com#A7-域
 iplocation.io#A9-域
-visa.com#A11-域
-csgo.com#A12-域
-www.visa.com.hk#A13-域
-skk.moe#A14-域
 digitalocean.com#A15-域
-ping.pe#A16-域
 cf.zhetengsha.eu.org#B2-自动
 cloudflare-ip.mofashi.ltd#B4-自动
 cloudflare.182682.xyz#B5-自动
