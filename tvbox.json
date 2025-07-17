@@ -7,7 +7,7 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "黑木影视",
@@ -16,13 +16,13 @@
       "api": " https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     }
   ],
   "parses": [
     {
       "name": "卧龙",
-      "type": 3,
+      "type": 0,
       "url": "https://jx.wolongm3u8.com:65/m3u8.php?url="
     }
   ]
