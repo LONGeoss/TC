@@ -1,163 +1,23 @@
-{
+   {
   "sites": [
-    {
-      "key": "豆",
-      "name": "修复厂长【神秘的哥哥们】",
+	{
+      "key": "天天影视",
+      "name": "天天影视",
       "type": 3,
-      "api": "csp_DouDouGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGGGuard",
+      "api": "csp_TTian",
       "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "7lj763gg09397919456493i0h44j8681highi4"
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
-      "type": 3,
-      "api": "csp_YGPGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "alllive",
-      "name": "📽️一直播┃直播",
-      "type": 3,
-      "api": "csp_AllliveGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "抠搜",
-      "name": "🍄抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSsGuard",
+      "key": "黑木影视",
+      "name": "黑木影视",
+      "type": 0,
+      "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
       "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "UC",
-      "name": "🌈优汐┃搜搜",
-      "type": 3,
-      "api": "csp_UuSsGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "白白",
-      "name": "🐟白白┃秒播",
-      "type": 3,
-      "api": "csp_SbaibaiGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "厂长",
-      "name": "📔厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCzGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyzGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 1
-    },
-    {
-      "key": "苹果",
-      "name": "🍎苹果┃不卡",
-      "type": 3,
-      "api": "csp_LiteAppleGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "Lib",
-      "name": "🌟立播┃秒播",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "zxzj",
-      "name": "🍊在线┃秒播",
-      "type": 3,
-      "api": "csp_ZxzjGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "https://www.zxzjhd.com/"
-    },
-    {
-      "key": "比特",
-      "name": "🍄比特┃手机",
-      "type": 3,
-      "api": "csp_BttwooGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "低端",
-      "name": "⏮️低端┃外剧",
-      "type": 3,
-      "api": "csp_DdrkGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 1
-    },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "热播",
@@ -169,7 +29,7 @@
       "playerType": 2,
       "ext": "uqGL1bNENExT7/hGxpSE5qU="
     },
-    {
+	{
       "key": "欢视",
       "name": "👓欢视┃多线",
       "type": 3,
@@ -179,307 +39,34 @@
       "playerType": 2,
       "ext": "uqGL1bNENExT9fFAy5mE5qU="
     },
-    {
-      "key": "奥特",
-      "name": "🏝奥特┃多线",
+	{
+      "key": "萌米",
+      "name": "👀萌米┃多线",
       "type": 3,
-      "api": "csp_AueteGuard",
+      "api": "csp_AppTTGuard",
       "searchable": 1,
       "changeable": 1,
       "playerType": 2,
-      "ext": "https://auete.com/"
+      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
     },
-    {
-      "key": "荐片",
-      "name": "🐭荐片┃P2P",
+	{
+      "key": "白白",
+      "name": "🐟白白┃秒播",
       "type": 3,
-      "api": "csp_JPJGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixVGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "https://www.xb6v.com/"
-    },
-    {
-      "key": "Dm84",
-      "name": "🚌巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84Guard",
+      "api": "csp_SbaibaiGuard",
       "searchable": 1,
       "changeable": 1,
       "playerType": 2
     },
-    {
-      "key": "Ysj",
-      "name": "🎀异界┃动漫",
+	{
+      "key": "比特",
+      "name": "🍄比特┃手机",
       "type": 3,
-      "api": "csp_YsjGuard",
+      "api": "csp_BttwooGuard",
       "searchable": 1,
       "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1Guard",
-      "searchable": 1,
-      "changeable": 1,
-      "playerType": 2
-    },
-    {
-      "key": "926",
-      "name": "⚽926┃看球",
-      "type": 3,
-      "api": "csp_kanqiu926Guard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "88",
-      "name": "⚽88┃看球",
-      "type": 3,
-      "api": "csp_Sir88Guard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "看球",
-      "name": "⚽看球┃直播",
-      "type": 3,
-      "api": "csp_KanqiuGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.js",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 1,
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/huya2.js"
-    },
-    {
-      "key": "斗鱼js",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 1,
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js"
-    },
-    {
-      "key": "有声小说js",
-      "name": "🎧有声┃小说",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js"
-    },
-    {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAidGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "PanSso",
-      "name": "🐌盘他┃三盘",
-      "type": 3,
-      "api": "csp_PanSsoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "YpanSo",
-      "name": "🐟盘她┃三盘",
-      "type": 3,
-      "api": "csp_YpanSoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "xzso",
-      "name": "👻盘它┃三盘",
-      "type": 3,
-      "api": "csp_XzsoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "米搜",
-      "name": "🦋米搜┃夸父",
-      "type": 3,
-      "api": "csp_MIPanSoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "夸搜",
-      "name": "😻夸搜┃夸父",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "Aliso",
-      "name": "🙀盘搜┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearchGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "YiSo",
-      "name": "😹易搜┃阿狸",
-      "type": 3,
-      "api": "csp_YiSoGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_PushGuard",
-      "searchable": 0,
-      "changeable": 1,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱哔哔演唱会┃弹幕",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js"
-    },
-    {
-      "key": "少儿教育",
-      "name": "📚少儿┃教育",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "初中课堂",
-      "name": "📚初中┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "高中教育",
-      "name": "📚高中┃课堂",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "changeable": 0,
-      "playerType": 2,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "fan",
-      "name": "导航 www.饭太硬.com",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "changeable": 0,
-      "playerType": 2
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中广告",
-      "type": 3,
-      "api": "csp_XPathGuard",
-      "searchable": 1,
-      "changeable": 0,
       "playerType": 2
     }
-  ],
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1752744748542/f0717.jpg;md5;e875d5382573fcd72aea4c5da44637fe"
-}
+	],
+  "wallpaper": "https://深色壁纸.xxooo.cf/"
+  }
