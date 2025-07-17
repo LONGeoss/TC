@@ -1,8 +1,8 @@
 {
   "sites": [
     {
-      "key": "天天",
-      "name": "天天┃高峰期用不了就点我换源或者搜索",
+      "key": "天天影视",
+      "name": "天天影视",
       "type": 3,
       "api": "csp_TTian",
       "searchable": 1,
