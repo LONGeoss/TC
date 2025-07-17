@@ -11,6 +11,15 @@
       "ext": "7lj763gg09397919456493i0h44j8681highi4"
     },
     {
+      "key": "黑木",
+      "name": "黑木",
+      "type": 0,
+      "api": "https://xml02.heimuer.xyz/api.php/provide/vod/at/xml/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_xlys",
       "name": "修罗┃无搜索",
       "type": 3,
